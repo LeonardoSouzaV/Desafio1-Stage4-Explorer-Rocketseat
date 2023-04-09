@@ -1,4 +1,4 @@
-<h1 align="center"> Introduction to JavaScript practice 1</h1>
+<h1 align="center"> Introduction to JavaScript practice (1)</h1>
 
 <p align="center">Challenge made by Rocketseat's team of instructors for the EXPLORER, for a first understanding and application about JavaScript focusing on his principles.<br/>
 
@@ -15,7 +15,7 @@
 <br>
 
 <p align="center">
-  <img alt="Space Cream - Mobile First" src=".github\README10.bmp" width="100%">
+  <img alt="Introduction to JavaScript practice (1)" src=".github\README10.bmp" width="100%">
 </p>
 
 ## 🚀 Technologies
@@ -26,7 +26,7 @@ This project was developed with the following technologies:
 
 ## 💻 Project
 
- Introduction to JavaScript practice 1 was developed to study the firsts concepts of JavaScript, material present in content of level 4 Rocketseat's Explorer. Among the most common themes are:
+ Introduction to JavaScript practice (1) was developed to study the firsts concepts of JavaScript, material present in content of level 4 Rocketseat's Explorer. Among the most common themes are:
 
 
 - Variables;
@@ -51,4 +51,4 @@ This project is licensed under the MIT license.
 
 Made with ♥ by Rocketseat 👋 [Participe da nossa comunidade (pt-BR)!](https://discord.gg/rocketseat)
 
-# Desafio3-Stage3-Explorer-Rocketseat
+# Desafio1-Stage4-Explorer-Rocketseat
